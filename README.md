@@ -2,7 +2,7 @@
 
 ## Description
 
-This was simulation was created for my multi-threading project for OS.
+This was simulation was created for my multi-threading project for OS. Might add more to this simulation, such as implementing Banker's algorithm to determine is a system can be fully processed or not.
 
 ## Getting Started
 
