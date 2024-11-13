@@ -18,6 +18,7 @@ This was simulation was created for my multi-threading project for OS. Might add
 ### Executing program
 
 ```
+cd src
 make all
 ```
 
